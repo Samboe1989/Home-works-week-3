@@ -4,6 +4,10 @@
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
 
+body {
+  margin: 100px;
+}
+
 h1,
 h2,
 h3 {
@@ -107,9 +111,4 @@ p {
     text-align: center;
     margin: 0 20px;
   }
-}
-
-.img-fluid {
-  max-width: 100%;
-  height: auto;
 }
